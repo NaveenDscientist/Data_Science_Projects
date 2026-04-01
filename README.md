@@ -10,7 +10,6 @@ This repository presents a collection of end-to-end Data Science and Machine Lea
 * Data Dictionaries
 * Source codes
 * References
-* Final_output containing finished Notebooks 
 
 * **Specialized Projects:**
 
