@@ -1,29 +1,9 @@
-# House_price_prediction_project
+# **House Price Prediction**
 
-This project focused on building a robust house price prediction system using structured real-estate data.
+This project focuses on building a machine learning model to predict house prices based on various features such as location, area, number of rooms, and other property-related attributes. The objective is to provide accurate price estimations to support better decision-making for buyers, sellers, and real estate stakeholders.
 
-**What Was Accomplished:**
+The dataset was preprocessed by handling missing values, encoding categorical variables, and performing feature engineering to enhance model performance. Exploratory Data Analysis (EDA) was conducted to uncover key trends and identify the most influential factors affecting housing prices.
 
--- Performed comprehensive Exploratory Data Analysis (EDA) to understand data distributions, missing values, and relationships.
+Multiple regression models such as Linear Regression, Random Forest, and other advanced algorithms were implemented and compared. Model performance was evaluated using metrics like R-squared, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE), with hyperparameter tuning applied to improve prediction accuracy.
 
--- Applied data cleaning, null value treatment, log transformations, and feature engineering to improve data quality.
-
--- Used one-hot encoding and scaling to prepare data for modeling.
-
-**Trained and evaluated four machine learning models using:**
-
--- K-Fold Cross Validation
-
--- Hyperparameter tuning optimized for slow computing environments
-
--- Compared models using RMSE and R² metrics.
-
--- Visualized model performance to support objective selection.
-
-**Key Insights**
-
--- Ensemble models significantly outperform linear models for housing price prediction.
-
--- Feature engineering and log transformations improve prediction stability.
-
--- Gradient Boosting consistently delivers the best accuracy with manageable complexity.
+The final model delivers reliable price predictions and highlights the critical factors influencing property valuation. This project demonstrates end-to-end machine learning expertise, including data preprocessing, model development, evaluation, and generating actionable business insights.
