@@ -1,4 +1,4 @@
-**Home Loan Default Prediction**
+# **Home Loan Default Prediction**
 
 This project focuses on developing a machine learning solution to predict the likelihood of loan default, helping financial institutions identify high-risk applicants and make informed lending decisions. By leveraging historical loan data, the model aims to enhance credit risk assessment and reduce potential financial losses.
 
