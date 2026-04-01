@@ -8,7 +8,7 @@ This repository presents a collection of end-to-end Data Science and Machine Lea
 ## **Folder Overview**
 
 * Data Dictionaries
-* Raw Data and Source codes
+* Source codes
 * References
 * Final_output containing finished Notebooks 
 
