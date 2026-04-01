@@ -5,7 +5,7 @@ This repository presents a collection of end-to-end Data Science and Machine Lea
 
 ---
 
-## **Folder Overview**
+## **Folder Contents**
 
 * Data Dictionaries
 * Source codes
