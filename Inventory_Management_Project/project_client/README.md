@@ -1,38 +1,9 @@
-## Inventory Forecasting for JIT Optimization
+# **Inventory Management Forecasting**
 
-This project aimed to build a predictive model to help a service center move toward **Just-In-Time (JIT)** inventory management. The objective was to accurately predict demand patterns so that the organization can:
+This project focuses on developing a predictive analytics solution to optimize inventory management by forecasting product demand and pricing trends. The objective is to help businesses improve operational efficiency, reduce stockouts and overstock situations, and support data-driven decision-making.
 
-* Reduce stock-out risk
-* Avoid overstock situations
-* Optimize working capital
-* Improve operational efficiency
+The dataset was preprocessed by handling missing values, cleaning data, and performing feature engineering to extract meaningful patterns. Exploratory Data Analysis (EDA) was conducted to identify trends in demand, seasonality, and pricing behavior, enabling better understanding of factors influencing inventory dynamics.
 
-Using historical service records such as:
+Multiple regression models such as Linear Regression, Random Forest, and XGBoost were built and compared to predict demand and price accurately. Model performance was evaluated using appropriate regression metrics, and hyperparameter tuning was applied to improve accuracy and robustness of the predictions.
 
-* Invoice Date
-* Job Card Date
-* Vehicle Model
-* Current KM Reading
-* Service Description
-
-We performed:
-
-* Data Cleaning
-* Feature Engineering
-* Handling Missing Values
-* Class Imbalance Treatment (SMOTE)
-* Feature Selection
-* Hyperparameter Tuning
-* K-Fold Cross Validation
-* Multi-Metric Model Comparison
-
-Four classification models were developed and tuned:
-
-* Logistic Regression
-* Random Forest
-* XGBoost
-* Gradient Boosting
-
-After evaluating models using Accuracy, Precision, Recall, F1-Score, and ROC-AUC, the best-performing model was selected based on highest **F1-score and Recall**, which are critical for JIT inventory systems.
-
-The final model is suitable for production deployment and can significantly reduce stock mismanagement risks.
+The final solution provides reliable forecasts and actionable insights that can assist in inventory planning, pricing strategies, and supply chain optimization. This project demonstrates strong capabilities in end-to-end machine learning, from data preprocessing to model deployment and business impact analysis.
