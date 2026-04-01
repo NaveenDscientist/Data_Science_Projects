@@ -1,4 +1,4 @@
-**Earthquake Damage Prediction**
+# **Earthquake Damage Prediction**
 
 This project focuses on building a machine learning model to predict the level of damage caused by earthquakes using structural and geographical features. The objective is to support disaster management efforts by enabling faster and more accurate damage assessment for effective response and resource allocation.
 
